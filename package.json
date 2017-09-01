@@ -1,0 +1,24 @@
+{
+  "name": "generator-laragul",
+  "version": "1.0.0",
+  "description": "Laravel Angular App Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afro-ware/generator-laragul.git"
+  },
+  "keywords": [
+    "laravel",
+    "angualar",
+    "generator"
+  ],
+  "author": "Afroware",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afro-ware/generator-laragul/issues"
+  },
+  "homepage": "https://github.com/afro-ware/generator-laragul#readme"
+}
